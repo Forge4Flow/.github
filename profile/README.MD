@@ -4,7 +4,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <img src="images/logo.png" alt="Logo" width="160" height="160">
+  <img src="../images/logo.png" alt="Logo" width="160" height="160">
 
   <h3>Forge4Flow</h3>
 
